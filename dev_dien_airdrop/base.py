@@ -39,8 +39,8 @@ class Base:
     def create_banner(self, game_name: str):
         # Create banner with game name
         banner = f"""
-        {self.blue}Smart Airdrop {self.white}{game_name} Auto Claimer
-        t.me/smartairdrop2120
+        {self.blue}dev dien airdrop  {self.white}{game_name} Auto tự động hóa
+        https://t.me/airdropnhanhgon
         
         """
         return banner
