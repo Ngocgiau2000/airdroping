@@ -5,5 +5,5 @@ A Python package for automatically claiming airdrops.
 ## Installation
 
 ```bash
-pip install smart-airdrop-claimer
+pip install dev_dien_airdrop
 ```
