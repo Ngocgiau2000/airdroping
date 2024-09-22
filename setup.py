@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="smart-airdrop-claimer",
+    name="airdroping",
     version="0.1.2",
     description="A package for automatically claiming airdrops.",
     long_description=open("README.md", "r").read(),
     long_description_content_type="text/markdown",
     author="Smart Airdrop",
     author_email="smileuptn@gmail.com",
-    url="https://github.com/smart-airdrop/smart-airdrop-claimer",
+    url="https://github.com/Ngocgiau2000/airdroping",
     packages=find_packages(),
     install_requires=[
         "colorama",
